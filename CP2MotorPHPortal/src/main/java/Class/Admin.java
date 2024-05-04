@@ -1,7 +1,8 @@
+import Class.Employee;
 package Class;
 
 
-public class Admin
+public class Admin //: Employee
 {
     private boolean isAdmin;
     
